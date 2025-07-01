@@ -57,9 +57,9 @@ No installation or configuration required.
 Join our community to get updates, help, and chat with other users:
 
 - 💬 **Discord**: [https://discord.gg/QqWg2z6QM4](https://discord.gg/QqWg2z6QM4)
-- 📱 **Telegram**: [https://t.me/+un_wfwq4m3diNGM0](https://t.me/+un_wfwq4m3diNGM0)
+- 📱 **Telegram**: [https://t.me/smeltra](https://t.me/smeltra)
 
-> ⚠️ Respect the rules. No spam, no scams. This is a cheat dev/testing community.
+> ⚠️ Respect the rules. No spam, no scams.
 
 ---
 
