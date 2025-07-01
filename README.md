@@ -39,8 +39,8 @@
 
 ## 📥 Download
 
-👉 **[Download the cheat from the Releases tab](../../releases)**  
-The latest version of `smeltra.exe` will always be published there.
+👉 **[Join our Discord](https://discord.gg/QqWg2z6QM4)**  
+The latest version of `smeltra.exe` is always available in the community.
 
 ---
 
