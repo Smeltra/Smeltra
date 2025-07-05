@@ -1,126 +1,82 @@
-# Smeltra - External CS2 Cheat (Rust)
+# Smeltra v2 – External CS2 Cheat (Rust)
 
-**Smeltra** is an external cheat for **Counter-Strike 2**, written in **Rust**, designed for clean performance and basic competitive advantage. The cheat is provided as a precompiled `.exe` file only.
+**Smeltra** is an evolving external cheat for **Counter-Strike 2**, written in **Rust** for performance, precision, and low detection risk. With a cyberpunk-style UI and smarter features, **v2** is a serious upgrade — all provided as a precompiled `.exe` file.
 
-> ❗ For educational purposes only.
+> ❗ For educational and testing purposes only. Use at your own risk.
 
 ---
 
-## 🦀 Features
+## ⚙️ What's New in v2
 
-- 🔥 **Glow ESP** - Visual enemy highlighting (toggle F1)
-- 🎯 **Triggerbot** - Auto-fire when aimed at enemies (hold L-Alt)
-- 🚀 **RAGE Aimbot** - Precision targeting with damage prediction (toggle F7)
-- ✨ **RCS Control** - Advanced recoil compensation (cycle modes F2)
-- 🎯 **Multipoint** - 8-hitbox targeting system (toggle F4)
+- 🌆 **Cyberpunk UI** – Complete visual redesign with sleek overlays  
+- 👁️ **Enhanced ESP** – More accurate enemy detection & rendering  
+- 🎯 **Improved Aimbot/Triggerbot** – Higher precision & smoother aim logic  
+- 🔫 **Advanced RCS** – Superior recoil control with more options  
+- ➕ **Custom Crosshair** – Center overlay for better aim assist  
+- 🛠️ **Real-Time Radar** – On-screen enemy positioning  
+- 📂 **Config System** – Save & load your cheat settings automatically
 
 ---
 
 ## 🚀 How to Use
 
-1. **Launch CS2** - Fullscreen Windowed recommended
-2. **Run smeltra.exe as Admin** - Required for memory access
-3. **Use hotkeys** during gameplay:
+1. **Launch CS2** – Use *Fullscreen Windowed* for best results  
+2. **Run `smeltra.exe` as Administrator**  
+3. Use the following hotkeys in-game:
 
-| Key     | Function                 |
-| ------- | ------------------------ |
-| `F1`    | Toggle Glow ESP          |
-| `F2`    | Cycle RCS Modes          |
-| `F3`    | Toggle Recoil Control    |
-| `F4`    | Multipoint Targeting     |
-| `F5`    | Cycle Min Damage (20-50) |
-| `F7`    | RAGE Aimbot              |
-| `F9`    | Rage Autofire            |
-| `L-Alt` | Hold for Triggerbot      |
-
-> 💡 All features work simultaneously when enabled
+> 💡 Only enable features you want — all modules run independently.
 
 ---
 
-## 📥 Download
+## 📦 Download 💬 Join the Community
 
-👉 **[Join our Discord](https://discord.gg/QqWg2z6QM4)**  
-The latest version of `smeltra.exe` is always available in the community.
+✅ The latest version of `smeltra.exe` is always available via:
 
----
+- 💬 [**Discord**](https://discord.gg/W7K4jbJUjz)
+- 📱 [**Telegram**](https://t.me/smeltra)
 
-## 📂 Files Included
-
-- `smeltra.exe` – Main executable
-
-No installation or configuration required.
-
----
-
-## 💬 Community
-
-Join our community to get updates, help, and chat with other users:
-
-- 💬 **Discord**: [https://discord.gg/QqWg2z6QM4](https://discord.gg/QqWg2z6QM4)
-- 📱 **Telegram**: [https://t.me/smeltra](https://t.me/smeltra)
-
-> ⚠️ Respect the rules. No spam, no scams.
+> ⚠️ Follow community rules. No spam, no advertising, no drama.
 
 ---
 
 ## 📋 Development Roadmap
 
-### ✅ Completed Features
+### ✅ Completed in v2
 
-- [x] **External Memory Framework** - Rust-based memory operations
-- [x] **Glow ESP System** - Team-colored player highlighting
-- [x] **Triggerbot** - Crosshair validation with configurable delay
-- [x] **Basic RCS** - Recoil compensation prototype
+- [x] Cyberpunk-style UI  
+- [x] Improved ESP, Aimbot, Triggerbot, and RCS logic  
+- [x] Config system (auto-load/save)  
+- [x] Real-time Radar & custom crosshair
 
-### 🚧 Current Development
+### 🛠️ In Progress
 
-- [ ] **RAGE Aimbot**
-  - [x] Core targeting logic
-  - [ ] Damage prediction system
-  - [ ] Multipoint hitbox selection
-  - [ ] Visibility checks
+- [ ] In-game toggle menu (`INS`)  
+- [ ] Spectator warning  
+- [ ] VAC-safe rendering approach  
+- [ ] Visibility checks for aim system
 
-### ⏳ Planned Features
+### 🔮 Planned Features
 
-- [ ] **Configuration System**
-
-  - [ ] JSON-based profiles
-  - [ ] Hotkey customization
-  - [ ] Performance presets
-
-- [ ] **User Interface**
-
-  - [ ] Toggle menu (INS key)
-  - [ ] Status indicators
-  - [ ] Debug information
-
-- [ ] **Safety Improvements**
-  - [ ] Randomization patterns
-  - [ ] Memory signature scrambling
-  - [ ] Usage time limits
-
-### 🔮 Future Possibilities
-
-- [ ] Skin changer (external)
-- [ ] Match statistics
-- [ ] Spectator warning
-- [ ] Stream-proof mode
+- [ ] Skin changer  
+- [ ] Stream-proof mode  
+- [ ] Cloud-based config sync  
+- [ ] Match statistics & kill logs
 
 ---
 
 ## ⚠️ Disclaimer
 
-This software is provided **for educational and research purposes only**.
+This software is provided **strictly for educational and research purposes**.
 
-- Do **not** use this on your main account.
-- May result in a **VAC ban** or other penalties.
-- Developer is **not responsible** for any consequences.
-- You are using this software **at your own risk**.
+- ❌ Do not use on accounts you value  
+- ⚠️ VAC bans are possible  
+- 🧠 Use at your own risk — the developer is not liable for any consequences  
+- ✅ Smeltra is 100% external — it does **not** inject DLLs
 
 ---
 
 ## 👨‍💻 Developer Notes
 
-Smeltra is written in **Rust**, using low-level memory reading/writing techniques to remain external. It does **not inject** any DLLs and interacts with `cs2.exe` and `client.dll` externally.
+Smeltra is built in **Rust**, using external memory access to safely interact with `cs2.exe` and `client.dll` without injection. Designed for performance and learning, it's constantly evolving with community feedback.
 
-More features are planned. Feedback and suggestions welcome via the community links above.
+> Suggestions and contributions are always welcome!
