@@ -8,7 +8,7 @@
 
 ## ⚙️ What's New in v2
 
-- 🌆 **Cyberpunk UI** – Complete visual redesign with sleek overlays  
+- 🌆 **Modern UI** – Complete visual redesign with sleek overlays  
 - 👁️ **Enhanced ESP** – More accurate enemy detection & rendering  
 - 🎯 **Improved Aimbot/Triggerbot** – Higher precision & smoother aim logic  
 - 🔫 **Advanced RCS** – Superior recoil control with more options  
