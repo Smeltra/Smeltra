@@ -1,4 +1,4 @@
-# Smeltra v2 – External CS2 Cheat (Rust)
+# Smeltra v2 - External CS2 Cheat (Rust)
 
 **Smeltra** is an evolving external cheat for **Counter-Strike 2**, written in **Rust** for performance, precision, and low detection risk. With a cyberpunk-style UI and smarter features, **v2** is a serious upgrade — all provided as a precompiled `.exe` file.
 
