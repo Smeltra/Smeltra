@@ -77,6 +77,6 @@ This software is provided **strictly for educational and research purposes**.
 
 ## 👨‍💻 Developer Notes
 
-Smeltra is built in **Rust**, using external memory access to safely interact with `cs2.exe` and `client.dll` without injection. Designed for performance and learning, it's constantly evolving with community feedback.
+Smeltra is built in **Rust**, using external memory access to safely interact with `cs2.exe` without injection. Designed for performance and learning, it's constantly evolving with community feedback.
 
 > Suggestions and contributions are always welcome!
